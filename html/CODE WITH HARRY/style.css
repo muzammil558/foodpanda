@@ -1,0 +1,12 @@
+.red{
+    background: #13e897;
+    height: 325px;
+    color: white;
+}
+#first{
+    background-color: aqua;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
